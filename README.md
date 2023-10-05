@@ -1,3 +1,3 @@
 # Jan Philipps
 
-Software Engineer Apprenitce
+Software Engineer Apprentice
